@@ -1,6 +1,6 @@
 # Student Management System - C++ OOP
 
-Đồ án giữa kỳ môn Lập trình hướng đối tượng.
+
 
 ## Yêu cầu đã đáp ứng
 - Minh họa đóng gói
