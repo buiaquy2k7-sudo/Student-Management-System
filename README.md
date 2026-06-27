@@ -11,9 +11,16 @@
 - Giao diện Console
 - Mỗi lớp được tách thành file `.h` và `.cpp`
 
-## Cách chạy
+## Cách chạy bằng VSCODE
 
 ```bash
 g++ main.cpp src/*.cpp -Iinclude -o app.exe
 .\app.exe
+```
+
+## Cách chạy bằng GitHub Codespaces
+
+```bash
+g++ main.cpp src/*.cpp -Iinclude -o app
+./app
 ```
